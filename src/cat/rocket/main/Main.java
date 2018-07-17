@@ -24,7 +24,7 @@ public class Main {
 	        p3.add(p30);
 	        p3.add(p80);
 	    };
-	 // NO hauria d'estar al Main, hauria d'estar a Rocket !?!!
+	 // NO hauria d'estar al Main, hauria d'estar a Rocket !?
 	    List<Propeller> p6 = new ArrayList<>();{
 		p6.add(p30);
 		p6.add(p40);
