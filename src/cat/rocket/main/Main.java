@@ -9,7 +9,7 @@ public class Main {
 	// Crea Cohet. Ajunta les parts
 	public static void main(String[] args) {
 		
-		// NO hauria d'estar al Main, hauria d'estar a Rocket !?
+		// NO hauria d'estar al Main, hauria d'estar a Rocket !?!!!!!!
 		Propeller p10 = new Propeller(10);
 	    Propeller p30 = new Propeller(30);
 	    Propeller p40 = new Propeller(40);
